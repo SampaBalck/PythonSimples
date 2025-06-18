@@ -44,9 +44,9 @@ print(curso)
 
 ### git add . ###
 ### git commit -m "comentario" ###
-### git push ###
-### git pull ###
-### git checkout ###
+### git push ### -->
+### git pull ### <--
+### git checkout ### <-----
 
 ### git add .gitignore ###
 ### git status ###
@@ -61,4 +61,23 @@ print(curso)
 ### $ git config --global user.email marcelospibm@gmail.com ###
 
 ### git commit -m "Envio do projeto"
+
+
+### git status ###
+
+### git add exemplo.py ###
+
+### it commit -m "Criado variavel curso" ###
+
+### git log ###
+
+
+#### CRIANDO REPOSITORIO NO github ####
+
+### git branch -M main ###
+### git remote add origin https://github.com/SampaBalck/PythonSimples.git ###
+### git push -u origin main ###
+#### FAZ LOGIN MANUAL UMA VEZ ####
+
+
 
