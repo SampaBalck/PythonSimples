@@ -66,7 +66,6 @@ print(curso)
 ### git status ###
 
 ### git add exemplo.py ###
-
 ### it commit -m "Criado variavel curso" ###
 
 ### git log ###
