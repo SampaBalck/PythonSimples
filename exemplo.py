@@ -4,6 +4,12 @@ idade = 25
 x = 10
 print(idade, x) 
 
+print("Testando Python")
+curso = "Python Desenvolvedor"
+print(curso)
+
+
+
 #### python.exe -m pip install --upgrade pip ####
 
 #### pip freeze ####   pega nomes de arquivos requirements.txt
@@ -43,3 +49,16 @@ print(idade, x)
 ### git checkout ###
 
 ### git add .gitignore ###
+### git status ###
+
+### git add . ###
+### git status ###
+
+### conectar com o github ###
+### https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Configura%C3%A7%C3%A3o-Inicial-do-Git ###
+
+### $ git config --global user.name "SampaBalck" ###
+### $ git config --global user.email marcelospibm@gmail.com ###
+
+### git commit -m "Envio do projeto"
+
