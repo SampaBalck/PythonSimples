@@ -65,6 +65,7 @@ print(curso)
 
 ### git status ###
 
+####  cada vez se atualizar o arquivo deve ser feito #####
 ### git add exemplo.py ###
 ### it commit -m "Criado variavel curso" ###
 
