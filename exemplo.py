@@ -81,3 +81,8 @@ print(curso)
 
 
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Ao fazer mudança em algum arquivo faça
+
+git add ARQUIVO
+git commit -m "Atualiza ARQUIVO"
