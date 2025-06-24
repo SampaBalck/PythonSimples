@@ -8,5 +8,6 @@ print("Testando Python")
 curso = "Python Desenvolvedor"
 print(curso)
 
-
+p = 10
+print(p + 15)
 
