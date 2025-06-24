@@ -11,3 +11,5 @@ print(curso)
 p = 10
 print(p + 15)
 
+QA = "Marcelo"
+print(QA, "Pires")
